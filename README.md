@@ -3,7 +3,7 @@ Our solution, entails using Convolutional Neural Network (CNN) to classify chest
 # Research Questions
 To build a Machine Learning model that will help classify Chest X-ray images with an accuracy score of 85% and above.
 
-# Regression Algorithms
+# Algorithms
 Convolutional Neural Network (CNN)
 
 # Experimental Design
