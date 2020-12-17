@@ -25,7 +25,7 @@ PyTorch
 fastai
 
 # Known Bugs
-Training codes take long hours to run
+Training codes take hours to run
 
 # Technology Used
 Python
