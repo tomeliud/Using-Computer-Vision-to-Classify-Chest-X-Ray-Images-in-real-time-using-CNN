@@ -20,12 +20,10 @@ Pandas
 
 Sklearn
 
-PyTorch
-
 fastai
 
 # Known Bugs
-Training codes take hours to run
+Long hours training time
 
 # Technology Used
 Python
